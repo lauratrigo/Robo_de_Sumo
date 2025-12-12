@@ -62,6 +62,13 @@ codigo-robo/
 
 ---
 
+
+<p align="center">
+  <img src="images/logo.png" alt="Logo Mad Max" width="450"/>
+</p>
+
+---
+
 ## ⚙️ Como Compilar e Rodar
 
 1. Instale o **PlatformIO** no **VSCode**.
